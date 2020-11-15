@@ -243,7 +243,7 @@
     </string-array>
 
     <!-- Disable rounded corners on windows to improve graphics performance -->
-    <bool name="config_supportsRoundedCornersOnWindows">false</bool>
+    <bool name="config_supportsRoundedCornersOnWindows">true</bool>
 	
     <!-- Disable Power on prompts a warning of problems inside the device -->
     <bool name="config_show_vendor_mismatch_message">false</bool>
